@@ -3,7 +3,7 @@ config.py
 
 # Adding other files
 API_practice.ipynb
-random_numbers.ipynb
+Random.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -134,3 +134,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+mylogfile.log
